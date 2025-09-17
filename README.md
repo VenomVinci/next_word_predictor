@@ -33,5 +33,3 @@ python predict.py
 Type a phrase, and the model predicts the next word.
 
 ---
-
-If you want, I can also make an **even more compact, one-paragraph version** for quick GitHub viewing. Do you want me to do that?
